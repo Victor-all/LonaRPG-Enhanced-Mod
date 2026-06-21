@@ -7,26 +7,22 @@ Este proyecto ha sido desarrollado con el apoyo y la colaboración de diversas i
 
 # Vista Previa del MOD
 
-## Estadísticas
+## Stats (Estadísticas)
 
-<img width="1577" height="877" alt="image" src="https://github.com/user-attachments/assets/12af41d3-31a8-431b-9b96-52a66528a4e9" />
+<img width="1585" height="874" alt="image" src="https://github.com/user-attachments/assets/ddbb8fc5-86dc-431a-b72f-f58ddc8a2471" />
 
 ## Items
 
-<img width="1576" height="874" alt="image" src="https://github.com/user-attachments/assets/8baa0f35-ad51-4f99-9d15-608eafe8ec63" />
+<img width="1566" height="878" alt="image" src="https://github.com/user-attachments/assets/b904489f-3eda-4d84-8814-dedcf656664c" />
+<img width="1588" height="879" alt="image" src="https://github.com/user-attachments/assets/724f1648-58db-40b6-8aae-6b3241fa23d1" />
+<img width="1586" height="876" alt="image" src="https://github.com/user-attachments/assets/03954461-b409-44ec-81d1-c6c2675c0f98" />
+<img width="1587" height="881" alt="image" src="https://github.com/user-attachments/assets/412d1ebf-5090-4fe1-be1c-550462a2517e" />
 
-## Items (Generales)
+## Summon (Invocar)
 
-<img width="1581" height="877" alt="image" src="https://github.com/user-attachments/assets/916d190b-beb6-49d9-95be-53fbc685df85" />
+<img width="1581" height="884" alt="image" src="https://github.com/user-attachments/assets/54625ed4-6242-4c84-b522-05096497bc12" />
 
-## Items (Armas)
+## Tp (Teletransportarse)
 
-<img width="1580" height="877" alt="image" src="https://github.com/user-attachments/assets/571b5bdc-9689-4bba-ac55-1b2d55103390" />
+<img width="1574" height="887" alt="image" src="https://github.com/user-attachments/assets/4ef04d16-fa4a-4f8d-a807-4b1a68954d4e" />
 
-## Items (Armaduras)
-
-<img width="1579" height="877" alt="image" src="https://github.com/user-attachments/assets/94544089-385f-4e4d-af1f-3b8c07220c3c" />
-
-## Invocar
-
-<img width="1582" height="876" alt="image" src="https://github.com/user-attachments/assets/6c45c1ce-3d14-410e-9a77-2b9a5e70bb37" />
