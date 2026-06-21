@@ -3,17 +3,58 @@
 #==============================================================================
 module ItemHacks
 
+  @translations = {}
+
   #----------------------------------------------------------------------
-  # Limpia nombres como "Dataltem:Apple/item_name" o similares.
-  # Extrae la parte central (lo que va despues de ':' y antes de '/').
-  # Si no encuentra ese patron, devuelve el nombre original.
+  # Carga traducciones desde un archivo específico
+  #----------------------------------------------------------------------
+  def self.load_translations_from_file(file_path)
+    return unless File.exist?(file_path)
+    lines = File.readlines(file_path, encoding: "UTF-8")
+    i = 0
+    while i < lines.length
+      line = lines[i].strip
+      if line.end_with?("/item_name")
+        key = line.sub("/item_name", "")
+        name_line = lines[i + 1].strip if i + 1 < lines.length
+        if name_line && !name_line.empty?
+          @translations[key] = name_line
+        end
+        i += 2
+      else
+        i += 1
+      end
+    end
+  rescue => e
+    puts "Error al cargar traducciones desde #{file_path}: #{e.message}"
+  end
+
+  #----------------------------------------------------------------------
+  # Carga traducciones (método original para compatibilidad)
+  #----------------------------------------------------------------------
+  def self.load_translations(file_path = "Data/DataItem.txt")
+    load_translations_from_file(file_path)
+  end
+
+  #----------------------------------------------------------------------
+  # Devuelve el nombre traducido para una clave
+  #----------------------------------------------------------------------
+  def self.translated_name(key)
+    @translations[key]
+  end
+
+  #----------------------------------------------------------------------
+  # Limpia nombres y busca traducción
   #----------------------------------------------------------------------
   def self.clean_name(raw_name)
     if raw_name =~ /:([^\/]+)/
-      return $1
+      key = $1
     else
-      return raw_name
+      key = raw_name
     end
+    translated = translated_name(key)
+    return translated if translated
+    "[#{key}]"
   end
 
   #----------------------------------------------------------------------
