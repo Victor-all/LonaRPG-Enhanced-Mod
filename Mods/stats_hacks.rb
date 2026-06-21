@@ -189,16 +189,26 @@ module LonaHacks
     DISPLAY_NAMES[sym] || sym.to_s
   end
 
+  #----------------------------------------------------------------------
+  # NUEVO CICLO: Normal → Manual → Infinito → Normal
+  #----------------------------------------------------------------------
   def self.cycle_mode(stat_key)
     sym = stat_key.to_sym
     if IDENTITY_KEYS.include?(sym)
       cycle_identity(stat_key)
       return
     end
+
     case $cheat_values[stat_key]
-    when :normal   then $cheat_values[stat_key] = :infinito
-    when :infinito then $cheat_values[stat_key] = CUSTOM_START[sym] || 100
-    else                $cheat_values[stat_key] = :normal
+    when :normal
+      # Normal → Manual (usamos el valor actual o 100)
+      $cheat_values[stat_key] = CUSTOM_START[sym] || 100
+    when :infinito
+      # Infinito → Normal
+      $cheat_values[stat_key] = :normal
+    else
+      # Manual → Infinito
+      $cheat_values[stat_key] = :infinito
     end
   end
 
@@ -221,32 +231,32 @@ module LonaHacks
   end
 
   #----------------------------------------------------------------------
-  # TEXTO MOSTRADO (con valor real en modo Normal)
+  # TEXTO MOSTRADO (con indicador de modo)
   #----------------------------------------------------------------------
   def self.get_status_text(stat_key)
-    sym = stat_key.to_sym
-    state = $cheat_values[stat_key]
+  sym = stat_key.to_sym
+  state = $cheat_values[stat_key]
 
-    if IDENTITY_KEYS.include?(sym)
-      if state == :sin_cambios
-        actual = get_actual_value(sym)
-        return "Normal (#{actual})" if actual
-        return "Normal"
-      else
-        return state.to_s
-      end
-    end
-
-    if state == :normal
+  if IDENTITY_KEYS.include?(sym)
+    if state == :sin_cambios
       actual = get_actual_value(sym)
       return "Normal (#{actual})" if actual
       return "Normal"
-    elsif state == :infinito
-      return "Infinito"
     else
       return state.to_s
     end
   end
+
+  if state == :normal
+    actual = get_actual_value(sym)
+    return "Normal (#{actual})" if actual
+    return "Normal"
+  elsif state == :infinito
+    return "Infinito"
+  else
+    return "Manual: <#{state}>"
+  end
+end
 
   #----------------------------------------------------------------------
   # OBTENER VALOR REAL (formateado)
