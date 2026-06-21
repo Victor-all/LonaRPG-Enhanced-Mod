@@ -1,0 +1,1600 @@
+MenstrualMed/item_name
+Menstrual Medicine
+
+MenstrualMed/description
+\}Regulates your cycle and restores your body’s natural rhythm.\n
+
+MeatSalad/item_name
+Ensalada de carne ahumada
+
+MeatSalad/description
+\}Sabores naturales puros,\n
+que te brindan esa primera sensación inolvidable.\n
+\C[6] Alimentos que mejoran el estado de ánimo. \n
+
+PubicHair/item_name
+Vello púbico
+
+PubicHair/description
+\} Eh... ¿por qué lo guardo?\n
+¿Tiene alguna otra utilidad aparte de ensuciarse?\n
+
+Maggots/item_name
+Gusanos
+
+Maggots/description
+\}Hay quien dice que se pueden comer, de verdad. \n
+\C[6]Basura. \n
+
+QuestRecQuestNorthFL4/item_name
+Sobre
+
+QuestRecQuestNorthFL4/description
+\}Una carta sellada con cera con un dibujo inca, parece importante. \n
+
+QuestMonsterBone/item_name
+Hueso de criatura mutante
+
+QuestMonsterBone/description
+\} Un hueso grande extraído de una criatura mutante, ¿parece un hueso humano?\n
+
+QuestSpiderLeg/item_name
+Pata de araña mutante
+
+QuestSpiderLeg/description
+\} ¿Parece un dedo?\n
+
+QuestBreedLingMeat/item_name
+Carne de muslo de corredor
+
+QuestBreedLingMeat/description
+\} ¿Para qué quieren esta carne?\n
+
+QuestCoconaShip/item_name
+Billete de barco de Cocona
+
+QuestCoconaShip/description
+\} Puedes llevar a Cocona en el barco\n
+Garantizado por Merim, la antigua «Espada Roja».\n
+
+QuestMhKatana/item_name
+La espada rota de Merim
+
+QuestMhKatana/description
+\} Arma obtenida por la Espada Roja en la Cueva Obscena del continente occidental.\n
+Esta arma legendaria fue partida en dos por un mercenario desconocido.\n
+
+QuestDancerSet/item_name
+Mercancía perdida
+
+QuestDancerSet/description
+\}Nor Island, Nor Town, Central Avenue, 89-64, Oriental Trading\n
+Oriental Trading Co., Ltd.\n
+
+GoodHumanMystery/item_name
+Sopa misteriosa
+
+GoodHumanMystery/description
+\}Sopa de carne, verduras y carne guisada. \n
+\C[6]Comida. \n
+\C[1]Carne misteriosa, carne humana. \n
+
+SopMeatHumanMystery/item_name
+Sopa de carne misteriosa
+
+SopMeatHumanMystery/description
+\}Sopa de carne guisada. \n
+\C[6]Alimento\n
+\C[1]Carne misteriosa, carne humana\n
+
+SmokedMeatHumanMystery/item_name
+Carne misteriosa ahumada
+
+SmokedMeatHumanMystery/description
+\}Si se conserva bien, se puede guardar durante aproximadamente un año.\n
+\C[6]Alimentos\n
+\C[1]Carne misteriosa, carne humana\n
+
+AnimalCrab/item_name
+Cangrejo
+
+AnimalCrab/description
+\}Es un alimento muy común en mi casa.\n
+\C[6]Alimentos crudos\n
+
+FlameBottle/item_name
+Botella incendiaria
+
+FlameBottle/description
+\}Certificado oficialmente como producto ecológico. \n
+\C[6]EXT Habilidad\C[0]: Lanzamiento\n
+
+Saltpeter/item_name
+Salitre
+
+Saltpeter/description
+\}Material sin utilidad\n
+
+Carbon/item_name
+Carbón
+
+Carbon/description
+\} Material inútil\n
+
+Oil/item_name
+Aceite
+
+Oil/description
+\} Material inútil\n
+
+Phosphorus/item_name
+Fósforo
+
+Phosphorus/description
+\} Material inútil\n
+
+QuestCecilyProg17/item_name
+Libro de cuentas
+
+QuestCecilyProg17/description
+\}Registra los detalles de las transacciones entre la banda de los Espadas Anchas y la casa comercial Ludsin. \n
+
+ThrowingKnivesI/item_name
+Cuchillos arrojadizos
+
+ThrowingKnivesI/description
+\}No me mires así, mi padre me enseñó a usarlos. \n
+\C[6]EXT Habilidad\C[0]: Disparo\n
+
+QuestGobShamanHead/item_name
+Cráneo lascivo
+
+QuestGobShamanHead/description
+\} Parece bastante placentero, su expresión es como si estuviera en pleno orgasmo.\n
+
+QuestC130Part/item_name
+Kit de modificación
+
+QuestC130Part/description
+\} Sistema de control de fuego que se puede instalar en un cañón\n
+Tras la modificación, se denomina «405 mm de clase señor feudal»\n
+Pero tiene el inconveniente de que no se puede manejar si se es demasiado mayor.\n
+
+NoerTea/item_name
+Té Noer
+
+NoerTea/description
+\}Bebida estimulante común en la isla\n
+Tiene efectos calmantes y estimulantes\n
+\C[6]Medicamento, restaura la vida del feto, adictivo.\n
+
+NorthFL_INN_Key/item_name
+Llave de la habitación de la salina del Mar del Norte
+
+NorthFL_INN_Key/description
+\}Si no la tengo, me echarán con una escoba.\n
+\C[2]Descansar en la posada permite recuperar la vida, la fuerza y la saciedad hasta su máximo nivel.\n
+\C[2]Elimina la suciedad.\n
+\C[2]Permite descansar durante medio día.\n
+
+QuestFbFormula/item_name
+Receta secreta para fabricar jarras
+
+QuestFbFormula/description
+\}Receta secreta para fabricar jarras de la tienda de jarras de cangrejo marino\n
+¿Cómo se fabrican las jarras?\n
+En las piñas del fondo del mar... me lo dijo una caracola mágica...\n
+
+QuestDeeponeEyesF/item_name
+Ojo falso de bruja marina
+
+QuestDeeponeEyesF/description
+\} ¿Por qué tengo que desenterrar algo así?\n
+
+QuestBC2ASH/item_name
+Urna funeraria
+
+QuestBC2ASH/description
+\} Urna funeraria sin nombre.\n
+
+ArecaNut/item_name
+Areca
+
+ArecaNut/description
+\}Activa la circulación sanguínea y estimula la mente.\n
+\C[6]Medicamentos, plantas, recuperación de la fuerza física.\n
+\C[2]Recuperación del estado de ánimo.\n
+
+Banana/item_name
+Plátano
+
+Banana/description
+\}Producto típico de la isla. \n
+\C[6]Se come crudo. \n
+\C[6]Planta. \n
+
+SouthFL_INN_Key/item_name
+Llave de la habitación del hotel
+
+SouthFL_INN_Key/description
+\}Si no la tengo, me echarán con una escoba. \n
+\C[2]Descansar en la posada permite recuperar al máximo la vida, la energía y la saciedad. \n
+\C[2]Elimina la suciedad. \n
+\C[2]Permite descansar medio día. \n
+
+QuestBoarPenis/item_name
+Pene de cerdo
+
+QuestBoarPenis/description
+\} ¡Qué asco! ¿Todos los cerdos tienen algo así?\n
+
+BerserkDrug/item_name
+Droga de la furia
+
+BerserkDrug/description
+\} Fabricada por Ilixi Pharmaceuticals\n
+¡Atención! ¡Tiene efectos secundarios graves!\n
+
+JunkFood/item_name
+Comida basura
+
+JunkFood/description
+\} Contenido de zumo inferior al 10 %.\n
+\C[6] Comida, mejora el estado de ánimo.\n
+
+QuestBetTricket/item_name
+Lotería de la arena
+
+QuestBetTricket/description
+\} Entretenen al público con sus vidas.\n
+
+QuestMamaFood/item_name
+Pedido de suministros
+
+QuestMamaFood/description
+\} Un pedido de suministros muy largo\n
+Parece que el negocio de quemar barriles de roble va muy bien.\n
+
+QuestOrkindEar/item_name
+Oreja de humanoide
+
+QuestOrkindEar/description
+\} ¿Quién colecciona estas cosas?\n
+
+RottenMatter/item_name
+Materia en descomposición
+
+RottenMatter/description
+\} ¿Quién pondría algo tan asqueroso en su mochila?\n
+\C[6] Basura.
+
+Dreg/item_name
+Restos de comida
+
+Dreg/description
+\} ¡Qué asco!\n
+\C[6]Basura. \n
+
+DryProtein/item_name
+Proteína misteriosa
+
+DryProtein/description
+\} Tiene un olor fuerte y sabe a huevo. \n
+\C[6]Comida. \n
+
+FishTownInnNapKey/item_name
+Llave de la habitación del hostal Fish Town Inn.
+
+FishTownInnNapKey/description
+\}Si no la tengo, me echarán con una escoba. \n
+\C[2]Descansar en el hostal permite recuperar al máximo la vida, la energía y la saciedad. \n
+\C[2]Elimina la suciedad. \n
+\C[2]Permite descansar durante medio día. \n
+
+QuestMusket/item_name
+Un paquete de mosquetes
+
+QuestMusket/description
+\} ¿No es solo un palo de madera? \n
+
+QuestDfSgtTag/item_name
+Medalla de centurión
+
+QuestDfSgtTag/description
+\}Eres muy poderoso, pero esto no tiene nada de especial. \n
+
+DoomFortressInnNapKey/item_name
+Llave de la habitación de la Fortaleza del Apocalipsis
+
+DoomFortressInnNapKey/description
+\}Si no la tengo, me echarán con una escoba. \n
+\C[2] Descansar en la posada permite recuperar al máximo la vida, la energía y la saciedad. \n
+\C[2] Elimina la suciedad. \n
+\C[2] Permite descansar durante medio día. \n
+
+SopMeatMystery/item_name
+Sopa de carne misteriosa
+
+SopMeatMystery/description
+\}Sopa de carne guisada. \n
+\C[6]Comida\n
+\C[1]Carne misteriosa\n
+
+SopGoodMystery/item_name
+Sopa misteriosa mixta
+
+SopGoodMystery/description
+\}Sopa de carne y verduras guisadas. \n
+\C[6]Alimentos\n
+\C[1]Carne misteriosa\n
+
+SmokedMeatMystery/item_name
+Carne misteriosa ahumada
+
+SmokedMeatMystery/description
+\}Si se conserva bien, se puede guardar durante aproximadamente un año.\n
+\C[6]Comida\n
+\C[1]Carne misteriosa\n
+
+QuestDeeponeEyes/item_name
+Ojos de buceador profundo
+
+QuestDeeponeEyes/description
+\}¿Quién colecciona este tipo de cosas?\n
+
+PirateBaneInnNapKey/item_name
+Llave de la habitación de la fortaleza del destructor
+
+PirateBaneInnNapKey/description
+\}Si no la tengo, me echarán con una escoba. \n
+\c[2]Descansar en la posada permite recuperar al máximo la vida, la resistencia y la saciedad. \n
+\c[2]Elimina la suciedad. \n
+\c[2]Permite descansar medio día. \n
+
+QuestHeadQuMilo6/item_name
+La cabeza de Adán
+
+QuestHeadQuMilo6/description
+\}Prueba de ayuda a la estabilidad. \n
+
+GoldenMilk/item_name
+Leche dorada
+
+GoldenMilk/description
+\}Con polvo de oro, alcohol y leche materna. \n
+El colmo del lujo\n
+\C[6]Comida cruda\n
+
+PassportNob/item_name
+Visado temporal para la finca\n
+
+PassportNob/description
+\}Lona Felding autoriza la entrada a la finca Ludsin\n
+
+HumanFlesh/item_name
+Carne humana
+
+HumanFlesh/description
+\}¡Para sobrevivir! ¡Qué asco!\n
+\C[6]Comida cruda\n
+\C[1]Carne humana\n
+
+SopMeatHuman/item_name
+Sopa de carne
+
+SopMeatHuman/description
+\}Sopa de carne cocida.\n
+\C[6]Comida\n
+\C[2]Recuperar el ánimo\n
+\C[1]Carne humana\n
+
+SopGoodHuman/item_name
+Sopa deliciosa
+
+SopGoodHuman/description
+\}Sopa de carne, verduras y huesos.
+\C[6]Comida\n
+\C[2]Recupera el ánimo\n
+\C[1]Carne humana\n
+
+SmokedMeatHuman/item_name
+Carne ahumada
+
+SmokedMeatHuman/description
+\}Si se conserva bien, se puede guardar durante aproximadamente un año.\n
+\C[6]Comida\n
+\C[1]Carne humana\n
+
+AidSTD/item_name
+Eliminar: Enfermedades de transmisión sexual
+
+AidSTD/description
+\}Elimina todas las enfermedades de transmisión sexual. \n
+\C[4]Se usa automáticamente al finalizar la transacción\n
+
+AidEquip/item_name
+Eliminar: Ropa
+
+AidEquip/description
+\}Quita el equipo de los siguientes campos. \n
+Ropa para la cabeza\n
+Ropa para la parte superior del cuerpo\n
+Ropa para la parte media del cuerpo\n
+Ropa adicional para la parte media del cuerpo\n
+Ropa para la parte inferior del cuerpo\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AidLactation/item_name
+Eliminar: periodo de lactancia
+
+AidLactation/description
+\}Eliminar el periodo de lactancia de nivel 1.\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AidVulvaMilkGland/item_name
+Eliminar: sexualización de las glándulas mamarias
+
+AidVulvaMilkGland/description
+\} Eliminar esta modificación.\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AidModVagGlandsLink/item_name
+Eliminar: Glándulas vaginales
+
+AidModVagGlandsLink/description
+\} Eliminar esta modificación.\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AidVulvaSkin/item_name
+Eliminar: Glándulas de la piel
+
+AidVulvaSkin/description
+\}Eliminar esta modificación. \n
+\C[4] Se utiliza automáticamente tras finalizar la transacción. \n
+
+AidVulvaAnal/item_name
+Eliminar: Glándulas de anales
+
+AidVulvaAnal/description
+\}Eliminar esta modificación. \n
+\C[4] Se utiliza automáticamente tras finalizar la transacción. \n
+
+AidVulvaUrethra/item_name
+Eliminar: Glándulas de la uretra
+
+AidVulvaUrethra/description
+\}Eliminar esta modificación.\n
+\C[4]Se utiliza automáticamente tras finalizar la transacción.\n
+
+AidVulvaEsophageal/item_name
+Eliminar: Glándulas del Esófago
+
+AidVulvaEsophageal/description
+\}Eliminar esta modificación. \n
+\C[4] Se utiliza automáticamente tras finalizar la transacción. \n
+
+AidModTaste/item_name
+Eliminar: Glándulas del gusto
+
+AidModTaste/description
+\}Eliminar esta modificación. \n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AidModMilkGland/item_name
+Eliminar: Glándulas lactantes
+
+AidModMilkGland/description
+\}Eliminar esta modificación.\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AidModSterilization/item_name
+Eliminar: Esterilización quirúrgica
+
+AidModSterilization/description
+\} Eliminar esta modificación.\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AidModVagGlandsSurgical/item_name
+Eliminar: Implante de glándulas
+
+AidModVagGlandsSurgical/description
+\}Eliminar esta modificación.\n
+\C[4]Se utiliza automáticamente tras finalizar la transacción.\n
+
+########################################################
+
+QuestCoconaMaid/item_name
+Ropa vieja de la jefa
+
+QuestCoconaMaid/description
+\}Para Cocona.\n
+
+ItemQuestOrkindResearch1/item_name
+Bebé orco raro
+
+ItemQuestOrkindResearch1/description
+\}¿En qué se diferencia? Son igual de feos\n
+
+ItemQuestFishResearch1/item_name
+Bebé pescador raro
+
+ItemQuestFishResearch1/description
+\} ¿En realidad es bastante bonito?\n
+
+HolyWater/item_name
+Agua bendita
+
+HolyWater/description
+\} En el frasco hay un pequeño emblema sagrado y un líquido viscoso de color amarillo pálido que lo llena hasta la mitad.\n
+Se dice que está hecho con el líquido sagrado de los creyentes.\n
+
+QuestFamilyHead/item_name
+Cráneo seco
+
+QuestFamilyHead/description
+\} Está muy bien conservado. \n
+
+HumanoidBrain/item_name
+Cerebro
+
+HumanoidBrain/description
+\} ¡El favorito de los muertos vivientes! ¡Qué asco! \n
+\C[6] Se come crudo. \n
+\C[1] Carne humana. \n
+
+QuestHeadNecro/item_name
+Cráneo malvado
+
+QuestHeadNecro/description
+\} Prueba de haber derrotado al nigromante. \n
+
+AddPiercingNose/item_name
+Perfo: nariz
+
+AddPiercingNose/description
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AddPiercingNoseB/item_name
+Perfo: puente de la nariz
+
+AddPiercingNoseB/description
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AddPiercingEar/item_name
+Perfo: oreja
+
+AddPiercingEar/description
+\C[4] Se usa automáticamente tras finalizar la transacción\n
+
+AddPiercingChest/item_name
+Perfo: pecho
+
+AddPiercingChest/description
+\C[4] Se usa automáticamente tras finalizar la transacción\n
+
+AddPiercingBelly/item_name
+Perfo: abdomen
+
+AddPiercingBelly/description
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AddPiercingArms/item_name
+Perfo: brazos
+
+AddPiercingArms/description
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AddPiercingAnal/item_name
+Perfo: nalgas
+
+AddPiercingAnal/description
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AddPiercingVag/item_name
+Perfo: vagina
+
+AddPiercingVag/description
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AddPiercingBack/item_name
+Perfo: espalda
+
+AddPiercingBack/description
+\C[4] Se usa automáticamente tras finalizar la transacción\n
+
+FruitWine/item_name
+Vino de frutas
+
+FruitWine/description
+\C[6] Comida.\n
+\C[6] Comida.\n
+\C[2]Recupera el ánimo, sacia el apetito.\n
+\C[1]Reduce la resistencia.\n
+
+BottleBeer/item_name
+Cerveza en lata
+
+BottleBeer/description
+\}Bébela y todo irá bien.\n
+\C[6]Comida.\n
+\C[2]Recupera el ánimo, sacia el apetito.\n
+\C[1] Reduce la resistencia. \n
+
+Beer/item_name
+Agua dorada de mala calidad
+
+Beer/description
+\} Bébela y todo irá bien. \n
+\C[6] Comida. \n
+\C[2] Recupera el ánimo y sacia el apetito. \n
+\C[1] Reduce la resistencia. \n
+
+SopMeat/item_name
+Caldo de carne
+
+SopMeat/description
+\}Caldo de carne. \n
+\C[6]Comida. \n
+\C[2]Recupera el ánimo. \n
+
+SopPlant/item_name
+Caldo de verduras
+
+SopPlant/description
+\}Caldo de verduras. \n
+\C[6] Comida. \n
+\C[2] Recupera el ánimo. \n
+
+SopGood/item_name
+Sopa deliciosa
+
+SopGood/description
+\} Sopa de carne, verduras y huesos. \n
+\C[6] Comida. \n
+\C[2] Recupera el ánimo. \n
+
+NoerTavernNapKey/item_name
+Llave de la habitación con barril de roble en llamas.
+
+NoerTavernNapKey/description
+\}Si no la tengo, me echarán con una escoba. \n
+\c[2]Descansar en la posada permite recuperar al máximo la vida, la fuerza y la saciedad. \n
+\c[2]Elimina la suciedad. \n
+\c[2] Permite descansar durante medio día. \n
+
+BombFragTimer/item_name
+Esquema de explosivo fragmentario
+
+BombFragTimer/description
+\} La pólvora negra resuelve cualquier problema. \n
+\C[2] Se puede colocar en la casilla delantera cuando se usa la habilidad rápida EXT. \n
+\C[2] Se activa la explosión en unos cinco segundos. \n
+\C[2] Obstáculo. \n
+
+BombFragPasstive/item_name
+Barril de explosivos fragmentarios
+
+BombFragPasstive/description
+\} La pólvora negra resuelve cualquier problema. \n
+\C[2] Se puede colocar una casilla delante cuando se usa la habilidad rápida EXT. \n
+\C[2] Solo se detona con fuerza externa. \n
+
+BombFragTrigger/item_name
+Detonador de explosivos de fragmentación
+
+BombFragTrigger/description
+\} La pólvora negra resuelve cualquier problema. \n
+\C[2] Se puede colocar una casilla delante cuando se usa la habilidad rápida EXT. \n
+\C[2] Trampa de activación. \n
+
+BombShockTimer/item_name
+Granada de humo
+
+BombShockTimer/description
+\} Utiliza menos pólvora, pero produce una gran cantidad de humo y destellos. \n
+\C[2] Cuando se usa la habilidad rápida EXT, se puede generar directamente una gran cantidad de humo. \n
+\C[2] El terreno de humo se considera de altura 3. \n
+\C[2] Obstáculo. \n
+
+BombShockPasstive/item_name
+Barril de explosivos de choque
+
+BombShockPasstive/description
+\}Utiliza menos pólvora, pero produce una gran cantidad de humo y destellos.\n
+\C[2]Se puede colocar una casilla delante cuando se usa la habilidad rápida EXT.\n
+\C[2]Solo se detona por fuerzas externas.\n
+\C[2] El terreno de humo se considera de altura 3. \n
+
+BombShockTrigger/item_name
+Detonador de explosivos de choque
+
+BombShockTrigger/description
+\} Utiliza menos pólvora, pero produce una gran cantidad de humo y destellos. \n
+\C[2] Cuando se utiliza la habilidad rápida EXT, se puede colocar una casilla delante. \n
+\C[2] Trampa de activación. \n
+\C[2] El terreno de humo se considera de altura 3. \n
+
+PassportLona/item_name
+Documento de identidad de Lona
+
+PassportLona/description
+\}\n Lona Fielding, Mujer \n
+\C[2]Lugar de nacimiento Sibaris \n
+\C[2]Fecha de nacimiento 1758-1-2
+
+#lona Fielding
+
+PassportFake/item_name
+Identificación falsa
+
+PassportFake/description
+\}Lorna Fieldeng, hombre\n
+\C[2]Lugar de nacimiento Sibaris\n
+\C[2]Fecha de nacimiento 1738-1-2\n
+\C[2] Después de la compra, se restablece la moral a 50.
+
+AddModVagGlandsLink/item_name
+MOD: Glándulas vaginales
+
+AddModVagGlandsLink/description
+\C[5] ¿Puedo tener un orgasmo en cualquier momento?
+\C[4] Se utiliza automáticamente al finalizar la transacción\n
+
+AddVulvaMilkGland/item_name
+MOD: Glándulas mamarias
+
+AddVulvaMilkGland/description
+\C[2] Reduce la profundidad del impacto negativo sobre la vida y la resistencia.
+\C[4] Se usa automáticamente al finalizar la transacción. \n
+
+AddVulvaSkin/item_name
+MOD: Glándulas de la piel
+
+AddVulvaSkin/description
+\C[5] Cualquier acción que consuma STA aumentará el deseo. \n
+\C[2] Reduce la profundidad del impacto negativo en la vida y la resistencia. \n
+\C[4] Se utiliza automáticamente tras finalizar la transacción. \n
+
+AddVulvaAnal/item_name
+MOD: Glándulas de anales
+
+AddVulvaAnal/description
+\C[2] Reduce la profundidad de los efectos negativos sobre la vida y la resistencia. \n
+\C[4] Se utiliza automáticamente al finalizar la transacción. \n
+
+AddVulvaUrethra/item_name
+MOD: Glándulas de la uretra
+
+AddVulvaUrethra/description
+\C[2] Reduce la profundidad del impacto negativo en la vida y la fuerza física. \n
+\C[4] Se usa automáticamente al finalizar la transacción. \n
+
+AddVulvaEsophageal/item_name
+MOD: Glándulas del Esófago
+
+AddVulvaEsophageal/description
+\C[5] Cualquier acto de ingestión de alimentos aumenta el deseo. \n
+\C[2] Reduce la profundidad de los efectos negativos sobre la vida y la fuerza física. \n
+\C[4] Se utiliza automáticamente al finalizar la transacción. \n
+
+AddModTaste/item_name
+MOD: Glándulas del gusto
+
+AddModTaste/description
+\C[2] Reduce el grado de impacto negativo en la vida y la salud. \n
+\C[1] Cualquier conducta alimentaria aumenta la excitación. excepto los excrementos y el semen. \n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AddModMilkGland/item_name
+MOD: Glándulas lactantes
+
+AddModMilkGland/description
+\C[5] Aumenta la producción de leche con el tiempo, independientemente de si se está embarazada o no.\n
+\C[2] Reduce el grado de impacto negativo en la vida y la fuerza física.\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción. \n
+
+AddModSterilization/item_name
+MOD: Esterilización quirúrgica
+
+AddModSterilization/description
+\C[6] Reduce la sensualidad. \n
+\C[4] Se utiliza automáticamente tras finalizar la transacción. \n
+\C[6] Imposibilidad de quedarse embarazada. \n
+
+AddModVagGlandsSurgical/item_name
+MOD: Extirpación de glándulas
+
+AddModVagGlandsSurgical/description
+\C[5] Imposibilidad de alcanzar el orgasmo en cualquier circunstancia. \n
+\C[4] Se activa automáticamente al finalizar la transacción. \n
+
+################################################################################################################ ###### Tickets on Relay and dock
+
+ToNoerRelay/item_name
+Viaje: Estación de Noer
+
+ToNoerRelay/description
+\} Billete para viajar\n
+\C[4] Se usa automáticamente tras completar la transacción\n
+
+ToPirateBane/item_name
+Viaje: Fortaleza del Destructor de Piratas
+
+ToPirateBane/description
+\}Billete para viajar\n
+\C[4]Se usa automáticamente al terminar la transacción\n
+
+ToDoomFortressR/item_name
+Viaje: Fortaleza del fin del mundo
+
+ToDoomFortressR/description
+\}Billete para viajar\n
+\C[4]Se usa automáticamente al terminar la transacción\n
+
+ToFishTownL/item_name
+Viaje: Isla Fish Toby
+
+ToFishTownL/description
+\}Billete para viajar\n
+\C[4]Se usa automáticamente al terminar la transacción\n
+
+ToNoerDock/item_name
+Viaje: Puerto de Noer Town
+
+ToNoerDock/description
+\}Billete para viajar\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+ToWestFL/item_name
+Viaje: Campamento West Gate
+
+ToWestFL/description
+\} Billete para viajar\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+ToSouthFL/item_name
+Viaje: Campamento South Gate
+
+ToSouthFL/description
+\}Billete para viajar\n
+\C[4]Se utiliza automáticamente tras finalizar la transacción\n
+
+ToNorthFL_INN/item_name
+Viaje: Fortaleza de la Marea
+
+ToNorthFL_INN/description
+\}Billete para viajar\n
+\C[4]Se utiliza automáticamente tras finalizar la transacción\n
+
+############################################################################################# ######################### TINTE PARA EL PELO
+
+AddHairDefault/item_name
+Tinte para el pelo: gris
+
+AddHairDefault/description
+\}El color de Lorna es tan sucio como el de una rata de alcantarilla.\n
+Diseñador: Morir juntos\n
+\C[4]Se usa automáticamente tras finalizar la transacción\n
+
+AddHairBlack/item_name
+Tinte para el cabello: negro
+
+AddHairBlack/description
+\} Un color que no se puede describir, pero que llama mucho la atención.\n
+Diseñador: Qingqing 214\n
+\C[4] Se usa automáticamente después de terminar la transacción\n
+
+AddHairWhite/item_name
+Tinte para el cabello: blanco
+
+AddHairWhite/description
+\} El color de pelo favorito de Qizi, \n
+esas mujeres bronceadas suelen fijarse en los comerciantes mayores. \n
+Diseñador: Qingqing 214\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AddHairLightLavender/item_name
+Tinte para el cabello: azul claro
+
+AddHairLightLavender/description
+\} El color de pelo del dios del agua, muy bonito y que no te volverá tonto. \n
+Diseñador: Qingqing 214\n
+\C[4] Se utiliza automáticamente tras finalizar la transacción\n
+
+AddHairRed/item_name
+Tinte para el cabello: rojo
+
+AddHairRed/description
+\}El color de lo políticamente correcto y el socialismo, que puede resultar irritante si se mira durante mucho tiempo.\n
+Diseñador: Muere juntos\n
+\C[4]Se utiliza automáticamente tras finalizar la transacción\n
+
+AddHairYellow/item_name
+Tinte para el cabello: amarillo
+
+AddHairYellow/description
+\} El color de la nobleza, pero teñirte no te convertirá en noble. \n
+Diseñador: Morir juntos \n
+\C[4] Se usa automáticamente al finalizar la transacción \n
+
+############################################ ##########################################################################
+AidPiercingNose/item_name
+Quitar piercing: nariz
+
+AidPiercingNose/description
+\}Quitar piercing: nariz\n
+Quita un piercing de la nariz.\n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidPiercingNoseB/item_name
+Quitar piercing: puente de la nariz
+
+AidPiercingNoseB/description
+\}Quitar piercing: puente de la nariz\n
+Quita un piercing de puente de la nariz.\n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidPiercingEar/item_name
+Quitar piercing: oreja
+
+AidPiercingEar/description
+\}Quitar piercing: cabeza\n
+Quita un piercing de la cabeza.\n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidPiercingChest/item_name
+Quitar piercing: pecho
+
+AidPiercingChest/description
+\}Quitar piercing: pecho\n
+Quitar un piercing del pecho.\n
+\C[4]Se usa automáticamente tras finalizar la transacción\n
+
+AidPiercingBelly/item_name
+Quitar piercing: abdomen
+
+AidPiercingBelly/description
+\}Quitar piercing: abdomen\n
+Quita un piercing del abdomen.\n
+\C[4]Se usa automáticamente tras finalizar la transacción\n
+
+AidPiercingArms/item_name
+Quitar piercing: brazos
+
+AidPiercingArms/description
+\}Quitar piercing: brazos\n
+Quita un piercing del brazo.\n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidPiercingAnal/item_name
+Quitar piercing: ano
+
+AidPiercingAnal/description
+\}Quitar piercing: ano\n
+Quita un piercing del ano.\n
+\C[4] Se utiliza automáticamente al finalizar la transacción\n
+
+AidPiercingVag/item_name
+Quitar piercing: vagina
+
+AidPiercingVag/description
+\}Quitar piercing: vagina\n
+\C[4] Se utiliza automáticamente al finalizar la transacción\n
+Quita un piercing de la vagina.\n
+
+AidPiercingBack/item_name
+Quitar el piercing: espalda
+
+AidPiercingBack/description
+\}Quitar el piercing: espalda\n
+Quitar un piercing de la espalda.\n
+\C[4] Se utiliza automáticamente al finalizar la transacción\n
+
+############################# ##########################
+
+AidChainMidExtra/item_name
+Quitar: grilletes metálicos
+
+AidChainMidExtra/description
+\}Quitar grilletes metálicos.\n
+\C[4]Se utiliza automáticamente tras finalizar la transacción\n
+
+AidChainCuff/item_name
+Eliminar: juego completo de grilletes metálicos.
+
+AidChainCuff/description
+\}Eliminar juego completo de grilletes metálicos.\n
+\C[4]Se utiliza automáticamente tras finalizar la transacción.\n
+
+AidCuff/item_name
+Eliminar: grilletes metálicos.
+
+AidCuff/description
+\}Eliminar grilletes metálicos.\n
+\C[4] Se utiliza automáticamente al finalizar la transacción\n
+
+AidChainCollar/item_name
+Eliminar: collar metálico con cadena de hierro
+
+AidChainCollar/description
+\}Eliminar collar metálico con cadena de hierro.\n
+\C[4] Se utiliza automáticamente al finalizar la transacción\n
+
+AidCollar/item_name
+Elimina: collar metálico.
+
+AidCollar/description
+\}Elimina el collar metálico.\n
+\C[4]Se utiliza automáticamente al finalizar la transacción.\n
+
+AidVagGlands/item_name
+Cura: recuperación de glándulas.
+
+AidVagGlands/description
+\}Elimina la conexión de las glándulas.\n
+Elimina la extirpación de glándulas. \n
+\C[4] Se utiliza automáticamente tras finalizar la transacción. \n
+
+AidOgrasmAddiction/item_name
+Tratamiento: adicción al orgasmo.
+
+AidOgrasmAddiction/description
+\} Elimina la adicción al orgasmo de nivel uno. \n
+\C[4] Se utiliza automáticamente al finalizar la transacción\n
+
+AidDrugAddiction/item_name
+Tratamiento: adicción a las drogas
+
+AidDrugAddiction/description
+\} Eliminar adicción a las drogas de nivel 1.\n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidSemenAddiction/item_name
+Tratamiento: adicción al semen
+
+AidSemenAddiction/description
+\} Elimina el nivel 1 de adicción al semen.\n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidModWombSeedBed/item_name
+Tratamiento: modificación del útero
+
+AidModWombSeedBed/description
+\}Elimina el nivel 1 de semillero uterino. \n
+\C[4] Se usa automáticamente al finalizar la transacción. \n
+
+AidSlaveBrand/item_name
+Elimina la marca de esclavo
+
+AidSlaveBrand/description
+\}Elimina la marca de esclavo. \n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidSphincterDamaged/item_name
+Tratamiento: Daño en el ano
+
+AidSphincterDamaged/description
+\} Elimina el estado de daño en el ano.\n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidUrethralDamaged/item_name
+Tratamiento: Daño en la uretra
+
+AidUrethralDamaged/description
+\}Elimina el estado de destrucción de la uretra. \n
+\C[4] Se usa automáticamente al finalizar la transacción. \n
+
+AidVaginalDamaged/item_name
+Tratamiento: destrucción del ano vaginal.
+
+AidVaginalDamaged/description
+\}Elimina el estado de destrucción del ano vaginal. \n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidPregnancy/item_name
+Aborto quirúrgico
+
+AidPregnancy/description
+\} Realiza un aborto.\n
+¡Para conseguir más coleccionables, Illy puede ayudarte gratis!\n
+¡Pero ten cuidado! ¡El aborto conlleva ciertos riesgos!
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidStomachSpasm/item_name
+Tratamiento: espasmos estomacales
+
+AidStomachSpasm/description
+\} Elimina el estado de espasmos estomacales.\n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidFeelsSick/item_name
+Tratamiento: Enfermedad
+
+AidFeelsSick/description
+\} Elimina el estado de enfermedad. \n
+\C[4] Se utiliza automáticamente al finalizar la transacción. \n
+
+AidWound/item_name
+Tratamiento: Herida
+
+AidWound/description
+\} Trata diversos estados de herida. \n
+\C[4] Se usa automáticamente al finalizar la transacción\n
+
+AidWormParasite/item_name
+Tratamiento: Cirugía antiparasitaria
+
+AidWormParasite/description
+\} Elimina de una sola vez diversos parásitos e infecciones.\n
+Elimina los focos de parásitos.\n
+\C[4] Se utiliza automáticamente al finalizar la transacción\n
+
+
+###########################################################################################
+
+QuestRatTail/item_name
+Cola de rata
+
+QuestRatTail/description
+\}Prueba de la misión.\n
+
+VespeneMineral/item_name
+Mineral de alta pureza
+
+VespeneMineral/description
+\}¿En qué se diferencia del de baja pureza?\n
+
+Mineral/item_name
+Mineral
+
+Mineral/description
+\}Piedras pequeñas y pesadas.\n
+
+Coin1/item_name
+Moneda de cobre pequeña
+
+Coin1/description
+\}La moneda más utilizada.\n
+
+Coin2/item_name
+Moneda de cobre grande
+
+Coin2/description
+\} Moneda de uso habitual. \n
+
+Coin3/item_name
+Moneda de oro
+
+Coin3/description
+\} Moneda de los ricos. \n
+
+Humpshroom/item_name
+Seta mutante
+
+Humpshroom/description
+\}Color rojo sangre, pero ¿sabe muy bien?\n
+\C[6]Comida, adicción a las drogas.\n
+
+Roach/item_name
+Insecto
+
+Roach/description
+\}Es inevitable, ¿no? Para sobrevivir.\n
+\C[6]Comida cruda.\n
+
+NpcChild/item_name
+El hijo de otra persona
+
+NpcChild/description
+\} Aunque no sea mío, no debería dejarlo expuesto en el desierto. \n
+
+PlayerChild/item_name
+Mi hijo
+
+PlayerChild/description
+\} Duerme, bebé, duerme rápido ~~ Mamá te canta una nana ~~ \n
+Duerme rápido~~Mi amor~~Cierra los ojos y duerme rápido~~\n
+
+RawMeat/item_name
+Carne de animal
+
+RawMeat/description
+\}No soy un animal salvaje ni nada por el estilo. \n
+\C[6]Crudo. \n
+
+HumanoidFlesh/item_name
+Carne de humanoide
+
+HumanoidFlesh/description
+\} ¡Para sobrevivir! ¡Qué asco!\n
+\C[6] Comida cruda. \n
+
+MutantFlesh/item_name
+Carne de criaturas mutantes
+
+MutantFlesh/description
+\} Parece venenosa. \n
+\C[6] Comida cruda. \n
+
+Vomit/item_name
+Vómito
+
+Vomit/description
+\}Lo que dijo el viejo mago... ¿Un bucle infinito?\n
+\C[6]Incipiente.
+
+Poo/item_name
+Excrementos
+
+Poo/description
+\} Algunos cazadores se lo untan por el cuerpo, pero... ¡puaj!\n
+\C[6] Residuos. \n
+\C[6] Habilidad SHIFT+EXT\C[0]: Lanzar excrementos.\n
+
+Pee/item_name
+Orina embotellada
+
+Pee/description
+\}Se rumorea que los cazadores lo utilizan para apagar incendios o para humillar a sus enemigos. \n
+\C[6]Objeto repugnante. \n
+\C[6]Habilidad SHIFT+EXT\C[0]: Lanzar orina. \n
+
+HerbHi/item_name
+Flor parásita
+
+HerbHi/description
+\}Planta que parasita en el cuerpo de los animales. Su consumo provoca una sensación de volar y tiene pocos efectos secundarios. \n
+\C[6]Medicamento, mejora el estado de ánimo, adictivo. \n
+
+HerbContraceptive/item_name
+Flor de paulownia
+
+HerbContraceptive/description
+\}Anticonceptivo natural, sin purificar puede no ser eficaz, efectos secundarios bajos. \n
+\C[6]Medicamento, anticonceptivo, adictivo. \n
+\C[6]Cura enfermedades, aumenta el deseo sexual, afrodisíaco. \n
+
+HerbSta/item_name
+Hierba del dragón blanco
+
+HerbSta/description
+\} Medicamento natural para aumentar la energía, sin purificar puede no ser eficaz, con pocos efectos secundarios. \n
+\C[6] Medicamento, recuperación de la energía, adictivo. \n
+\C[6] Tratamiento de espasmos estomacales. \n
+
+HerbRepellents/item_name
+Hierba repelente
+
+HerbRepellents/description
+\} Puede matar los gérmenes del cuerpo y también se puede comer, pero tiene un sabor muy fuerte. \n
+\C[6] Medicamento, alimento, ligeramente adictivo. \n
+
+Repellents/item_name
+Repelente
+
+Repellents/description
+\} Elimina de una vez todas las impurezas del cuerpo, pero puede causar daños físicos. \n
+\C[6] Medicamento, adictivo. \n
+
+Abortion/item_name
+Aborto
+
+Abortion/description
+\}Advertencia: Puede dañar al feto.\n
+Puede causar daño al usuario, edicamento, adictivo.\n
+\C[6]Droga\n
+
+HerbCure/item_name
+Raíz de barba de dragón
+
+HerbCure/description
+\} Bendición de los santos, medicina natural, sin purificar puede no ser eficaz, efectos secundarios bajos. \n
+\C[6] Medicamento, restaura la vida, adictivo. \n
+\C[6]Cura las heridas. \n
+
+Rock/item_name
+Piedra
+
+Rock/description
+\}Probablemente sea la mejor de las diez armas. \n
+\C[6]Habilidad EXT\C[0]: Disparo\n
+
+DryFood/item_name
+Cereales secos
+
+DryFood/description
+\}Carne, cereales, verduras y frutas molidos y secados al horno.\n
+Tan duros que uno se pregunta si realmente se pueden comer.\n
+\C[6]Alimentos.\n
+
+SmokedMeat/item_name
+Carne ahumada
+
+SmokedMeat/description
+\}Si se protege bien de la humedad, debería conservarse durante aproximadamente un año.\n
+\C[6]Alimento.\n
+
+Potato/item_name
+Patata
+
+Potato/description
+\}¿Es dulce si se come cruda?\n
+\C[6]Alimento crudo.\n
+\C[6]Planta.\n
+
+Cherry/item_name
+Cereza
+
+Cherry/description
+¡Dulce! ¡Deliciosa!\n
+\C[6]Se come cruda. \n
+\C[6]Planta. \n
+
+Tomato/item_name
+Tomate
+
+Tomato/description
+\}Desagradable sabor a hierba. \n
+\C[6]Se consume crudo. \n
+\C[6]Planta. \n
+
+Milk/item_name
+Leche
+
+Milk/description
+\}¿El sabor está bien? Pero no sacia mucho. \n
+\C[6]Se consume crudo. \n
+
+Resources/item_name
+Recursos
+
+Recursos/descripción
+\}Una caja de objetos diversos, hay de todo. \n
+
+Apple/item_name
+Manzana
+
+Apple/descripción
+\}Especialidad de la isla. \n
+\C[6]Se consume cruda. \n
+\C[6]Planta. \n
+
+Bread/item_name
+Pan
+
+Bread/description
+\}No es muy refinado, pero se conserva bien.\n
+\C[6]Alimento.\n
+
+Cheese/item_name
+Queso
+
+Cheese/description
+\}¡Hay que esconderlo en algún sitio, porque si no, seguro que lo roban!\n
+\C[6]Alimento.\n
+
+Mushroom/item_name
+Setas
+
+Mushroom/description
+\}Estoy seguro de que se puede comer, ¡de verdad!\n
+\C[6]Alimento crudo. \n
+\C[6]Planta. \n
+
+Sausage/item_name
+Salchicha
+
+Sausage/description
+\}¡Qué delicia! No dejes que nadie lo vea.\n
+\C[6]Alimento. \n
+
+Grapes/item_name
+Uvas
+
+Grapes/description
+\} No se conservan bien, hay que comerlas rápido.\n
+\C[6] Alimento crudo. \n
+\C[6] Planta. \n
+
+Orange/item_name
+Naranja
+
+Orange/description
+\} No se conservan bien, hay que comerlas rápido.\n
+\C[6]Para comer crudo. \n
+\C[6]Planta. \n
+
+Nuts/item_name
+Frutos secos
+
+Nuts/description
+\}La cáscara es como una piedra, pero al abrirla hay un tesoro dentro. \n
+\C[6]Alimento. \n
+
+Onion/item_name
+Cebolla
+
+Onion/description
+\}¿Se come cruda?\n
+\C[6]Se come cruda. \n
+\C[6]Planta. \n
+
+Pepper/item_name
+Pimiento verde
+
+Pepper/description
+\}¡Qué asco!\n
+\C[6]Se come cruda. \n
+\C[6]Planta. \n
+
+BlueBerry/item_name
+Arándanos
+
+BlueBerry/description
+\}Se pueden encontrar en los arbustos.\n
+\C[6]Se comen crudos.\n
+\C[6]Planta.\n
+
+Fish/item_name
+Pescado
+
+Fish/description
+\}He oído que la gente del continente oriental lo come crudo. ¡No me hagas reír!\n
+\C[6]Se come crudo. \n
+
+Carrot/item_name
+Zanahoria
+
+Carrot/description
+\}¡Qué asco! \n
+\C[6]Se come crudo. \n
+
+Rattus/item_name
+Ratón
+
+Rattus/description
+\}Cuando no hay más remedio, hay que comerlo. \n
+\C[6]Comer crudo. \n
+
+RedPotion/item_name
+Poción roja
+
+RedPotion/description
+\}La esencia de la raíz de barba de dragón, detiene el sangrado y acelera la curación de las heridas. \n
+Después de tomarla, te entrarán muchas ganas de dormir. \n
+\C[6]Medicamento, restaura la vida, adictivo. \n
+\C[6]Cura las heridas. \n
+
+BluePotion/item_name
+Energizante
+
+BluePotion/description
+\}La esencia de la hierba del dragón blanco te da energía y se usa para tratar la mayoría de las enfermedades. \n
+Tomarlo con demasiada frecuencia puede provocar incontinencia. \n
+\C[6]Medicamento, restaura la energía, adictivo. \n
+\C[6]Cura los espasmos estomacales y las enfermedades. \n
+
+ContraceptivePills/item_name
+Píldoras anticonceptivas
+
+ContraceptivePills/description
+\}Al menos hoy no te quedarás embarazada, funciona bien, puede que, probablemente, tal vez. \n
+Su uso prolongado puede provocar incontinencia urinaria y fecal. \n
+\C[6] Medicamento, anticonceptivo, adictivo. \n
+\C[6] Para tratar enfermedades, aumentar el deseo sexual, afrodisíaco. \n
+
+HiPotionLV2/item_name
+Agua de la felicidad
+
+HiPotionLV2/description
+\} El sedante más común, tiene efectos secundarios como relajación muscular y ovulación. \n
+Tras su producción a gran escala en Sibaris, se utiliza habitualmente con esclavas sexuales y prostitutas. \n
+\C[6] Medicamento, mejora el estado de ánimo, aumenta el deseo, adictivo. \n
+\C[6] Recupera la fuerza física. \n
+
+HiPotionLV5/item_name
+Jugo de bruja
+
+HiPotionLV5/description
+\} Medicamento purificado a partir de flores parásitas, provoca confusión mental y hace volar a las personas por los aires. Su uso prolongado convierte a las personas en inválidos. \n
+En el sur, con un frasco se puede comprar una mansión. \n
+\C[6] Medicamento, mejora el estado de ánimo, aumenta el deseo, adictivo. \n
+\C[6]Recupera la salud\n
+
+SemenTroll/item_name
+Semen de troll devorador de hombres
+
+SemenTroll/description
+\}Afrodisíaco natural muy potente con fuertes efectos secundarios.\n
+\C[6]Consumo crudo, aumenta el deseo, adictivo.\n
+\C[6]SHIFT+EXT habilidad\C[0]: disparar\n
+
+SemenOrcish/item_name
+Semen de orco
+
+SemenOrcish/description
+\}Extremadamente viscoso, con un olor fétido similar al de los huevos podridos.\n
+\C[6]Consumo crudo, adictivo.\n
+\C[6]SHIFT+EXT habilidad\C[0]: disparar\n
+
+SemenAbomination/item_name
+Semen de abominable humanoide
+
+SemenAbomination/description
+\} Viscoso, con un olor a agua podrida.\n
+\C[6]Se consume crudo, es adictivo.\n
+\C[6]SHIFT+EXT habilidad\C[0]: disparar\n
+
+SemenFishKind/item_name
+Semen de semimortal
+
+SemenFishKind/description
+\}Tiene un fuerte olor a pescado\n
+\C[6]Se consume crudo, es adictivo\n
+\C[6]SHIFT+EXT habilidad\C[0]: disparar\n
+
+SemenHuman/item_name
+Semen humano
+
+SemenHuman/description
+\} ¿Sabe a clara de huevo?\n
+\C[6]Se consume crudo.\n
+\C[6]SHIFT+EXT habilidad\C[0]: disparar\n
+
+SemenOther/item_name
+No se sabe de quién es el semen.
+
+SemenOther/description
+\} ¿Sabe a clara de huevo?\n
+\C[6] Se consume crudo. \n
+\C[6] Habilidad SHIFT+EXT\C[0]: Disparar\n
+
+Trait_Combat/item_name
+Técnica de combate
+
+Trait_Combat/description
+\}\n
+\C[2] Aumenta el poder de ataque físico. \n
+
+Trait_Scoutcraft/item_name
+Técnica de exploración
+
+Trait_Scoutcraft/description
+\}\n
+\C[2] Mejora el efecto de ocultación. \n
+\C[2] Aumenta la velocidad de movimiento. \n
+\C[2] Más tiempo para recoger objetos. \n
+\C[2] Iluminación en entornos subterráneos +2, hasta un máximo de 75\n
+
+Trait_Wisdom/item_name
+Sabiduría
+
+Trait_Wisdom/description
+\}\n
+\C[2] Aumenta las ganancias por transacciones. \n
+\C[2] Influye en los resultados de la búsqueda de hierbas medicinales. \n
+\C[2] Aumenta el daño de las armas mágicas. \n
+
+Trait_Survival/item_name
+Habilidades de supervivencia
+
+Trait_Survival/description
+\}\n
+\C[2]Defensa contra ataques elementales\n
+\C[2]Reduce la probabilidad de que surjan peligros en el campo\n
+\C[2]Aumenta la probabilidad de que aparezca comida en el campo\n
+\C[2]Aumenta el daño de las trampas\n
+
+Trait_Constitution/item_name
+Valor físico
+
+Trait_Constitution/description
+}\n
+\C[2]Aumenta la vida y la resistencia máximas\n
+\C[2]Aumenta el poder de ataque sexual\n
+\C[2]Aumenta la carga máxima\n
+
+nil/item_name
+
+nil/description
+
