@@ -1,7 +1,7 @@
 {
   "id": "test_f9_cheat",
-  "name": "Mod de Prueba Stats (F9)",
-  "author": "InformaticaEstudio",
-  "version": "1.0.0",
-  "description": "Presiona F9 en el mapa para aplicar los cambios de stats de prueba."
+  "name": "Mod (F9)",
+  "author": "Victor_Ryse",
+  "version": "v1.0.0",
+  "description": "Presiona F9 para abrir el menú."
 }
