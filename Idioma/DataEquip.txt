@@ -1,0 +1,817 @@
+################################################### NeckleAtoner
+
+NeckleLona/item_name
+Medallón familiar
+
+NeckleLona/description
+\}Bañado en oro. Dentro del relicario contiene un\n
+Pintura detallada de tus padres adoptivos.\n
+\C[2]Aumenta el estado de ánimo mínimo.\n
+
+NeckleBelt/item_name
+Collar de cuero
+
+NeckleBelt/description
+\}Prueba de desobediencia.\n
+\C[6]Aumenta ATK y Sexy.\n
+\C[6]Disminuye DEF y Débil.\n
+
+NeckleAtoner/item_name
+Colgante de Atoner
+
+NeckleAtoner/description
+\}¡Puta asquerosa! Compensa al Santo\n
+usando tu cuerpo para succionar los pecados de todos\n
+los mentirosos y pecadores.\n
+\C[5]Aumenta Sexy y Débil.\n
+
+################################# ##################
+
+Tampon/item_name
+Tampon
+
+Tampon/description
+\}\n
+\C[2]Reduce las desventajas del período.\n
+
+TamponUsed/item_name
+Tampon Usado
+
+TamponUsed/description
+\}Empapado en suciedad.\n
+
+RagBot/item_name
+Sandalias sucias
+
+RagBot/description
+\}Tejido descuidadamente con retales de tela y paja,\n
+\C[6]Incrementa Debil, Suciedad y SCU.\n
+\C[6]Disminuye Sexy.\n
+
+PantyVag/item_name
+Ropa interior usada
+
+PantyVag/description
+\}Ropa interior vieja de origen desconocido.\n
+que desprende un olor débil y desagradable.\n
+
+NunVeilHeadEquip/item_name
+Velo del mártir
+
+NunVeilHeadEquip/description
+\}Una hija de la Santa no debe dejar que su mente se distraiga.\n
+corrompidos por los pecados y la blasfemia de los Mentirosos.\n
+\C[2]Incrementa HP, STA, CON  Voluntad, MORA.\n
+\C[6]Incrementa Sexy.
+
+NunMidExtra/item_name
+Gorro de mártir
+
+NunMidExtra/description
+\}El sello del santo cubre mi pecho, recordándome\n
+Él siempre está en mi corazón y hay que vestirse con recato.\n
+\C[2]Incrementa HP, STA, CON  Voluntad, MORA.\n
+\C[6]Incrementa Sexy.
+
+NunSexyMid/item_name
+El hábito del mártir
+
+NunSexyMid/description
+\}Una túnica reveladora. La parte trasera queda al descubierto para una hermana.\n
+sacrificar su virginidad como limosna para los pobres.\n
+\C[2]Incrementa HP, STA, CON  Voluntad, MORA.\n
+\C[4]Requiere rasgo："Prostituta". Disminuye Suciedad , Sexy.\n
+
+DocMid/item_name
+Bata médica
+
+DocMid/description
+\}Bata médica común.\n
+\C[2]Aumenta la sabiduría y la supervivencia. \C[6]Disminuye la debilidad y la sensualidad.
+
+DocMidExtra/item_name
+Bolsa de medicinas
+
+DocMidExtra/description
+\}Originalmente se utilizaba para guardar diversos medicamentos,\n
+pero ahora se utiliza para guardar artículos diversos.\n
+\C[2]Aumenta la sabiduría y la supervivencia. \C[6]Disminuye la debilidad y la sensualidad.
+
+DocBot/item_name
+Pantalones de sanador
+
+DocBot/description
+\}Los leggings médicos se ajustan perfectamente,\n
+aunque nadie sabe por qué.
+\C[2]Aumenta WIS, SUR. \C[6]Disminuye Débil, Sexy,
+
+DocTop/item_name
+Capa de la plaga
+
+DocTop/description
+\}Una capa de segunda mano, impregnada del aroma de los medicamentos.\n
+\C[2]Aumenta WIS, SUR, DEF. \C[6]Disminuye Débil, Sexy,
+
+DocHead/item_name
+Máscara de la plaga
+
+DocHead/description
+\}Máscaras de médico comunes,\n
+con la boca llena de diversas hierbas.\n
+\C[2]Aumenta WIS, SUR. \C[6]Disminuye Débil, Sexy,
+
+BucketHelmet/item_name
+Grandes yelmos
+
+BucketHelmet/description
+\}Demasiado grande, ¡no me cabe en la cabeza!\n
+\C[2]Aumenta DEF. \C[6]Disminuye Débil, Sexy, \C[1]STA.\n
+\C[2]Disminuye los efectos negativos sobre DEF.\n
+
+HoodCloakTop/item_name
+Capa con capucha
+
+HoodCloakTop/description
+\}Esto debería ayudarme a cubrir y ocultar mi rostro.\n
+\C[6]Mejora ATQ, SCU\n
+\C[6]Disminuye Sexy, Débil\n
+
+SlaveMidExtra/item_name
+Cinturón con cordón
+
+SlaveMidExtra/description
+\}Nada especial, solo una cuerda sucia.\n
+\C[6]Aumenta Debilidad, SCU y DEF.\n
+\C[6]Disminuye Sexy.\n
+
+SlaveMid/item_name
+Túnica de esclavo
+
+SlaveMid/description
+\}Para facilitar que otros descarguen sus\n
+deseos sexuales, no hay tela detrás.\n
+\C[6]Aumenta Debilidad, Suciedad, SCU y DEF.\n
+\C[6]Disminuye Sexy.\n
+
+FootmanHelmet/item_name
+Casco Morion antiguo
+
+FootmanHelmet/description
+\}Apodado «el casco de los conquistadores» por los nobles.\n
+Sinceramente, creo que parece una olla ridícula...\n
+\C[2]Aumenta DEF. \C[6]Disminuye Debilidad, Sexy, \C[1]STA. \n
+\C[2]Disminuye los efectos negativos sobre DEF. \n
+
+FootmanMidExtra/item_name
+Coraza gastada
+
+FootmanMidExtra/description
+\}Una coraza muy plana que ha visto días mejores. \n
+Por alguna extraña razón, se adapta bastante bien a mi pecho...\n
+\C[2]Aumenta la DEF. \C[6]Disminuye Débil, Sexy.\n
+\C[2]Disminuye los efectos negativos sobre SPD, DEF.\n
+
+FootmanMid/item_name
+Gambesón de soldado de a pie
+
+FootmanMid/description
+\}Uniforme estándar para soldados de bajo rango.\n
+Bastante elegante, si me permites decirlo. Talla: XXS para hombre\n
+\C[2]Aumenta DEF y ATK. \C[6]Disminuye Debilidad y Sexy.\n
+\C[2]Disminuye los efectos negativos sobre HP, STA, SPD y DEF.\n
+
+FootmanBot/item_name
+Pantalones de soldado de infantería
+
+FootmanBot/description
+\}Holgados, abultados y feos...\n
+¡Al menos las botas de cuero son bonitas!\n
+\C[2]Aumenta DEF y ATK. \C[6]Disminuye la debilidad y el Sexy.\n
+\C[2]Disminuye los efectos negativos sobre HP, STA, SPD y DEF.\n
+
+MhChainMace/item_name
+Maza
+
+MhChainMace/description
+\}No importa si no sabes cómo usarla.\n
+¡Lo único que tienes que hacer es blandirlo!\n
+\C[6]Mano principal, cuerpo a cuerpo, corto alcance, alta calidad.\n
+\C[6]Aumenta el ATQ. Disminuye lo sexy y lo débil.\n
+
+MhHorseCock/item_name
+Pene de caballo
+
+MhHorseCock/description
+\}Apenas cabe en mi mano...\n
+\C[6]Mano principal, cuerpo a cuerpo, corto alcance\n
+\C[6]Aumenta la CONST.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+2MhBareHand/item_name
+Manos de Lona
+
+2MhBareHand/description
+\}Nada fuera de lo común, solo las manos de Lona.\n
+
+ItemShProtect/item_name
+Reliquia del guardián
+
+ItemShProtect/description
+\}Protege y bendice a los seguidores del santo.\n
+También protege a los paganos y a los infieles...\n
+¿Quizás los indignos también merecen su amor?\n
+\C[6]Mano secundaria, Divino.\n
+
+ItemShPurge/item_name
+Reliquia de la retribución
+
+ItemShPurge/description
+\}Sé el juez y verdugo del Santo para todos los mentirosos.\n
+Curiosamente, la reliquia también castiga a los creyentes...\n
+¿Quizás su fe no era lo suficientemente fuerte?\n
+\C[6]Mano secundaria, Divina.\n
+
+MhKatana/item_name
+Katana destrozada
+
+MhKatana/description
+\}Meryme desafió las reglas de la naturaleza.\n
+Pero al final, tiene que ser así...\n
+\C[6]A dos manos, cuerpo a cuerpo, alta calidad.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+MhSaintSym/item_name
+Ídolo del creyente
+
+MhSaintSym/description
+\}¡Oh, santo de arriba! Por favor, bendice a esta oveja descarriada.\n
+\C[6]Mano principal.\n
+
+MhBroadSword/item_name
+Asesino del falso dios
+
+MhBroadSword/description
+\}La espada del berserker. Es demasiado grande...\n
+Enorme, gruesa, pesada y demasiado resistente.\n
+\C[6]A dos manos, cuerpo a cuerpo, alta calidad.\n
+\C[6]Aumenta el ATQ y la DEF.\n
+\C[6]Disminuye el Sexy, la debilidad y la VEL.\n
+\C[6]Ataque de corte ininterrumpido.\n
+
+ShTeslaBook/item_name
+Libro de hechizos eléctricos
+
+ShTeslaBook/description
+\}-Fundamentos de la electricidad, volumen 1.\n
+Autor: Tesla\n
+\C[6]Secundaria, mágica, única.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+MhTeslaStaff/item_name
+Párarayos
+
+MhTeslaStaff/description
+\}Un bastón reconvertido en aislante de voltaje.\n
+\C[6]Mano principal, magia, a distancia.\n
+\C[6]Aumenta la sabiduría. Disminuye el Sexy y la debilidad.\n
+
+PaintHead/item_name
+Pintura de guerra tribal
+
+PaintHead/description
+\}Se te pintan runas antiguas en la cara, lo que demuestra\n
+que tu falo ahora forma parte de la tribu de los Nueve Centímetros.\n
+\C[6]Aumenta la RES, la SCU y el Sexy.\n
+\C[6]Disminuye la debilidad y la moralidad.\n
+
+SurTop/item_name
+Chal de cuero
+
+SurTop/description
+\}Tiene el hedor de un animal.\n
+Bastante grueso y cálido.\n
+\C[6]Aumenta DEF, SPD, SUR y SCU.\n
+\C[6]Disminuye Sexy y Débil.\n
+
+SurMid/item_name
+Chaqueta de cuero
+
+SurMid/description
+\}Ropa de trabajo común, pero hecha de\n
+piel de animal en lugar de algodón.\n
+\C[6]Aumenta DEF, SPD, SUR y SCU.\n
+\C[6]Disminuye Sexy y Debil.\n
+
+SurBot/item_name
+Botas de cazador
+
+SurBot/description
+\}¡No llevo pantalones!~ ... ¡Porque llevar\n
+pantalones me ralentiza!\n
+\C[6]Aumenta DEF, SPD, SUR y SCU.\n
+\C[6]Aumenta Sexy.\n
+
+SurMidExtra/item_name
+Faja del cazador
+
+SurMidExtra/description
+\}Una sencilla faja que se utiliza para colgar trofeos\n
+de la caza.\n
+\C[6]Aumenta DEF, SPD, SUR y SCU.\n
+\C[6]Disminuye Sexy y Débil.\n
+
+ShTalkie/item_name
+Artefacto del santo
+
+ShTalkie/description
+\}Una baratija sagrada que te ayuda a rezar al santo que está arriba.\n
+\C[6]Mano secundaria\n
+
+MhMusket/item_name
+Mosquete
+
+MhMusket/description
+\}Con el poder de la pólvora, incluso el campesino más débil\n
+puede convertirse en un poderoso asesino.\n
+\C[6]A dos manos, mágico, a distancia.\n
+\C[6]Aumenta el ATK. Disminuye Sexy y Débil.\n
+
+SexyMid/item_name
+Lencería de muñeca sexual
+
+SexyMid/description
+\}Estas cadenas eróticas muestran que eres un juguete de los nobles.\n
+\C[4]Requiere rasgo: «Prostituta». Disminuye la suciedad.\n
+\C[6]Aumenta la debilidad, la sensualidad y la DEF.\n
+
+SexyBot/item_name
+Taparrabos de muñeca sexual
+
+SexyBot/description
+\}Esta falda sexy muestra que eres un juguete de los nobles.\n
+\C[4]Requiere el rasgo: «Prostituta». Disminuye la suciedad.\n
+\C[6]Aumenta la debilidad, la sensualidad y la DEF.\n
+
+SexyHeadEquip/item_name
+Tiara de muñeca sexual
+
+SexyHeadEquip/description
+\}Esta corona lasciva muestra que eres un juguete de los nobles.\n
+\C[4]Requiere rasgo: «Prostituta». Disminuye la suciedad.\n
+\C[6]Aumenta la debilidad, la sensualidad y la DEF.\n
+
+DancerTop/item_name
+Brazaletes de prostituta
+
+DancerTop/description
+\}Estas mangas de gasa representan las\n
+alas de un ángel revoloteando mientras baila.\n
+\C[4]Requiere el rasgo: «Prostituta». Disminuye la suciedad.\n
+\C[6]Disminuye la debilidad. Aumenta el Sexy y la velocidad.\n
+
+DancerMid/item_name
+Prenda de prostituta
+
+DancerMid/description
+\}Se dice que este top con cuello halter «mata la virginidad»\n
+de los chicos y los seduce para convertirlos en hombres.\n
+\C[4]Requiere el rasgo «Prostituta». Disminuye la suciedad.\n
+\C[6]Disminuye la debilidad. Aumenta el Sexy y la velocidad.\n
+
+DancerBot/item_name
+Falda de seda de prostituta
+
+DancerBot/description
+\}La tela transparente de esta falda permite\n
+a los clientes ver lo que más desean...\n
+\C[4]Requiere el rasgo: «Prostituta». Disminuye la suciedad.\n
+\C[6]Disminuye la debilidad. Aumenta el Sexy y la velocidad.\n
+
+DancerHeadEquip/item_name
+Velo de cabeza de prostituta
+
+DancerHeadEquip/description
+\}Un tocado decorado que llevan las legendarias\n
+bailarinas del vientre de las tierras nómadas del desierto.\n
+\C[4]Requiere el rasgo: «Prostituta». Disminuye la suciedad.\n
+\C[6]Disminuye la debilidad. Aumenta el Sexy y la SPD.\n
+
+ShWaterBook/item_name
+Libro de hechizos de agua
+
+ShWaterBook/description
+\}-Enciclopedia de hechizos de agua- Te ayuda a corregir\n
+tu pronunciación.\n
+\C[6]Mano secundaria, magia, único.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+ShFireBook/item_name
+Libro de hechizos de fuego
+
+ShFireBook/description
+\}-El favorito de los piromantes- Cuenta la historia del\n
+mago más famoso del continente.\n
+\C[6]Mano secundaria, mágico, único. \n
+\C[6]Disminuye la sensualidad y la debilidad.\n
+
+MhWaterStaff/item_name
+Bastón acuático
+
+MhWaterStaff/description
+\}Perteneció a un famoso mago escocés.\n
+Tiene grabadas las palabras: «Waatah.  Pur Waatah».\n
+\C[6]Mano principal, mágico, a distancia.\n
+\C[6]Aumenta la sabiduría. Disminuye el Sexy y la debilidad.\n
+
+MhFireStaff/item_name
+Varita de fuego
+
+MhFireStaff/description
+\}Los chicos guays no miran las explosiones.\n
+Pero... yo soy una chica.\n
+\C[6]Mano principal, magia, a distancia.\n
+\C[6]Aumenta la sabiduría. Disminuye el Sexy y la debilidad.\n
+
+ShAbominationTotem/item_name
+Tótem de abominación
+
+ShAbominationTotem/description
+\}Hecho con sangre humana y suciedad de monstruos.\n
+El resultado se pega a un hueso grande.\n
+\C[6]Mano secundaria, mágico, único.\n
+\C[6]Disminuye la debilidad y la moralidad.\n
+
+ShBoneShield/item_name
+Escudo óseo
+
+ShBoneShield/description
+\}Creado a partir de los huesos de diversas criaturas.\n
+No es muy resistente.\n
+\C[6]Mano secundaria, corto alcance.\n
+\C[6]Aumenta la defensa. Disminuye la debilidad y la moralidad.\n
+
+MhBoneStaff/item_name
+Cetro vil
+
+MhBoneStaff/description
+\}Hecho con huesos humanos y unido con el\n
+esperma de monstruos. El bastón parece estar maldito.\n
+\C[6]Mano principal, magia, a distancia.\n
+\C[6]Aumenta la sabiduría. Disminuye la debilidad y la moralidad.\n
+
+MhWhip/item_name
+Látigo
+
+MhWhip/description
+\}Perteneció a un famoso arqueólogo.\n
+Bastante pervertido.\n
+\C[6]Mano principal, Cuerpo a cuerpo, AoE, Alta calidad.\n
+\C[6]Aumenta el ATQ. Disminuye el Sexy y la debilidad.\n
+
+MhSabar/item_name
+Sable
+
+MhSabar/description
+\}La hoja parece muy ligera. A pesar de ello, hay que\n
+manejarla con cuidado, o será ella la que te maneje a ti.\n
+\C[6]Mano principal, cuerpo a cuerpo, corto alcance, alta calidad.\n
+\C[6]Aumenta el ATQ. Disminuye el Sexy y la debilidad.\n
+
+MhShortSword/item_name
+Espada corta
+
+MhShortSword/description
+\}Una espada común utilizada por muchos aventureros.\n
+\C[6]Mano principal, cuerpo a cuerpo, corto alcance.\n
+\C[6]Aumenta el ATQ.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+MhSickle/item_name
+Hacha
+
+MhSickle/description
+\}Herramienta utilizada para la agricultura, no para el combate.\n
+\C[6]Mano principal, cuerpo a cuerpo, corto alcance.\n
+\C[6]Aumenta el ATQ.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+MhWoodenClub/item_name
+Garrote de madera
+
+MhWoodenClub/description
+\}Hecho con una rama de árbol. ¿Lo estoy sujetando bien?\n
+\C[6]Mano principal, cuerpo a cuerpo, corto alcance.\n
+\C[6]Aumenta el ATQ.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+MhSilverDildo/item_name
+Garrote de plata
+
+MhSilverDildo/description
+\}Diseñado por el infame músico,\n
+Johnny Silver Dildo.\n
+\C[6]Mano principal, cuerpo a cuerpo, corto alcance.\n
+\C[6]Aumenta el ATK. Disminuye el Sexy y la debilidad.\n
+
+MhManCatcher/item_name
+Palo de sujeción
+
+MhManCatcher/description
+\}Da miedo, pero no está pensado para matar gente.\n
+\C[6]A dos manos, cuerpo a cuerpo, alcance medio.\n
+\C[6]Aumenta el ATQ.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+MhHalberd/item_name
+Alabarda
+
+MhHalberd/description
+\}¡Demasiado pesada!\n
+\C[6]A dos manos, cuerpo a cuerpo, alcance medio, alta calidad.\n
+\C[6]Aumenta el ATQ.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+MhWoodenSpear/item_name
+Lanza de madera
+
+MhWoodenSpear/description
+\}Una pértiga larga con una punta afilada y puntiaguda.\n
+¿Qué más hay que observar?\n
+\C[6]A dos manos, cuerpo a cuerpo, alcance medio.\n
+\C[6]Aumenta el ATQ. Disminuye Sexy y Débil.\n
+
+MhPickAxe/item_name
+Pico
+
+MhPickAxe/description
+\}Una herramienta común utilizada para lo siguiente.\n
+Minería, artesanía y construcción de fuertes. Por la noche.\n
+\C[6]Mano principal, cuerpo a cuerpo, corto alcance.\n
+\C[6]Aumenta el ATQ. Disminuye el Sexy y la debilidad.\n
+
+MhRake/item_name
+Horquilla
+
+MhRake/description
+\}Barata y fácil de usar. Una buena amiga de los campesinos.\n
+\C[6]A dos manos, cuerpo a cuerpo, alcance medio.\n
+\C[6]Aumenta el ATK.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+MhMetalSpear/item_name
+Pica de metal
+
+MhMetalSpear/description
+\}Un arma comúnmente utilizada por los soldados.\n
+Bastante pesada.\n
+\C[6]A dos manos, cuerpo a cuerpo, alcance medio, alta calidad.\n
+\C[6]Aumenta el ATQ. Disminuye el Sexy y la debilidad.\n
+
+MhLongBow/item_name
+Arco largo
+
+MhLongBow/description
+\}Parece que este arco se fabricó con prisas.\n
+La calidad de la madera es bastante mala.\n
+\C[6]A dos manos, a distancia, alta calidad.\n
+\C[6]Aumenta el ATQ. Disminuye el Sexy y la debilidad.\n
+
+AdvTop/item_name
+Capa roja
+
+AdvTop/description
+\}Es bonita y te mantiene caliente.\n
+\C[6]Aumenta el ATQ y la DEF.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+RagTop/item_name
+Chal sucio
+
+RagTop/description
+\}Un trozo de tela apestosa y grasienta.\n
+Nadie quiere tocarlo.\n
+\C[6]Aumenta Debilidad, Suciedad, SCU y DEF.\n
+\C[6]Disminuye Sexy.\n
+
+AdvMid/item_name
+Camisa civil
+
+AdvMid/description
+\}Esta ropa representa quién soy.\n
+No es que tenga otra opción.\n
+\C[6]Aumenta el ATK y la DEF.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+RagMid/item_name
+Trapos sucios
+
+RagMid/description
+\}Sucios y malolientes. No quiero ponérmelos si no es\n
+necesario...\n
+\C[6]Aumenta Debilidad, Suciedad, SCU y DEF.\n
+\C[6]Disminuye Sex appeal.\n
+
+LightIronArmor/item_name
+Armadura ligera de hierro
+
+LightIronArmor/description
+ON DEV
+
+RagVag/item_name
+Ropa interior sucia
+
+RagVag/description
+\}Sucio y tiene un olor extremadamente desagradable.\n
+Los colores amarillo y marrón manchan la tela...\n
+
+RagBot/item_name
+Ropa interior sucia
+
+RagBot/description
+\}Sucia y con un olor extremadamente desagradable.\n
+Manchas amarillas y marrones en la tela...\n
+\C[6]Aumenta Debilidad, Suciedad y SCU.\n
+\C[6]Disminuye el Sexy.
+
+AdvBot/item_name
+Pantalones civiles
+
+AdvBot/description
+\}No está mal, me queda bastante bien.
+\C[6]Aumenta el ATK y el DEF.
+\C[6]Disminuye el Sexy y la debilidad.
+
+AdvMidExtra/item_name
+Bolsa de cuero
+
+AdvMidExtra/description
+\}¡No hay nada dentro! ¡De verdad! ¡No miento!\n
+\C[6]Aumenta ATK y DEF.\n
+\C[6]Disminuye Sexy y Débil.\n
+
+RagMidExtra/item_name
+Delantal sucio
+
+RagMidExtra/description
+\}Un trapo roto que puedo usar como falda.\n
+¡Pero por qué iba a ponerme un material tan asqueroso?!\n
+\C[6]Aumenta Debilidad, Suciedad y SCU.\n
+\C[6]Disminuye Sexy.\n
+
+ChainMidExtra/item_name
+Grilletes metálicos
+
+ChainMidExtra/description
+\}Ataduras para criminales y esclavas sexuales\n
+no me refiero a mí, por supuesto\n
+\C[6]Aumenta Sexy y Débil.\n
+\C[1]Disminuye SPD.\n
+
+CollarTopExtra/item_name
+Collar metálico
+
+CollarTopExtra/description
+\}Equipo especial utilizado en esclavos y criminales.\n
+No en mí, por supuesto.\n
+\C[6]Aumenta Sexy y Débil.\n
+\C[1]Disminuye la STA.\n
+
+ChainCollarTopExtra/item_name
+Collar con cadena
+
+ChainCollarTopExtra/description
+\}Equipo especial utilizado con esclavos y delincuentes.\n
+¡Ahora viene con una cadena!\n
+\C[6]Aumenta el Sexy y la debilidad.\n
+\C[1]Disminuye la STA.\n
+
+CuffTopExtra/item_name
+Arnés metálico
+
+CuffTopExtra/description
+\}Restricciones específicas para esclavos sexuales. ¡Soy un buen ciudadano! ¿Cómo es posible esto?\n
+\C[1]No se pueden usar habilidades de ataque.\n
+\C[6]Aumenta el Sexy y la debilidad.\n
+\C[1]Disminuye la STA y el ATK.\n
+
+ChainCuffTopExtra/item_name
+Arnés metálico completo
+
+ChainCuffTopExtra/description
+\}Restricciones específicas para esclavas sexuales. ¡Soy una buena ciudadana! ¿Cómo es posible?\n
+\C[1]No se pueden usar habilidades de ataque.\n
+\C[6]Aumenta Sexy y Débil.\n
+\C[1]Disminuye STA y ATK.\n
+
+HairDancer/item_name
+Trenza sencilla elegante
+
+HairDancer/description
+\}Un peinado elegante y femenino. Muy popular\n
+entre las novias jóvenes, las damas y las cortesanas.\n
+\C[6]Aumenta Sexy.\n
+
+HairShortMessy/item_name
+Pelo corto desordenado
+
+HairShortMessy/description
+\}Este peinado despeinado me hace parecer un chico...\n
+\C[6]Aumenta la suciedad.\n
+\C[6]Disminuye la sensualidad y la debilidad.\n
+
+HairMessy/item_name
+Pelo largo despeinado
+
+HairMessy/description
+\}¿Quizás el peinado más seguro por el momento?\n
+\C[6]Aumenta la debilidad y la suciedad.\n
+\C[6]Disminuye el Sexy sexual.\n
+
+HairPony/item_name
+Coleta
+
+HairPony/description
+\}Un peinado perfecto para cuando quieres atraer\n
+a tu amante. O matar a otros que se interponen en tu camino...\n
+\C[6]Aumenta la sensualidad.\n
+\C[6]Disminuye la debilidad.\n
+
+HairTwinBraid/item_name
+Trenzas dobles
+
+HairTwinBraid/description
+\}Con mi pelo peinado así,\n
+de repente he eliminado mi emergencia ante los demás...\n
+\C[6]Aumenta la debilidad.\n
+\C[6]Disminuye el Sexy.\n
+
+StarterGlass/item_name
+Gafas
+
+StarterGlass/description
+\}Te hacen parecer más inteligente. Quitármelas es casi\n
+como si hubiera pasado por una metamorfosis...\n
+\C[6]Aumenta la debilidad y la sabiduría.\n
+\C[6]Disminuye el Sexy y el ataque.\n
+
+SunGlass/item_name
+Yo soy Lona
+
+SunGlass/description
+\}Herramienta de depuración. Responsable de causar más errores.\n
+¡ASÚMALO!\n
+\C[6]Bloquea HP, STA y estado de ánimo.\n
+
+ShDagger/item_name
+Daga mejorada
+
+ShDagger/description
+\}Una daga forjada a partir de mineral de cristal. Muy afilada.\n
+\C[6]Arma secundaria, cuerpo a cuerpo, corto alcance, alta calidad.\n
+\C[6]Aumenta el ATQ.\n
+\C[6]Disminuye el Sexy y la debilidad.\n
+
+#\}Ya sea para trabajar o cazar, es ideal para llevarla como defensa personal.\n
+
+ShThrowingKnives/item_name
+Kunais arrojadizos
+
+ShThrowingKnives/description
+\}Dagas preferidas por los asesinos del Este,\n
+así como por los ignorantes obsesionados con el Este.\n
+\C[6]Mano secundaria, a distancia, alta calidad.\n
+\C[6]Aumenta el ATQ. Disminuye el Sexy y la debilidad.\n
+
+ShWoodenShield/item_name
+Escudo de madera
+
+ShWoodenShield/description
+\}Este escudo básico hecho de madera debería\n
+protegerme. Creo...\n
+\C[6]Mano secundaria, corto alcance.\n
+\C[6]Aumenta la DEF. Disminuye el Sexy y la debilidad.\n
+
+ShMetalShield/item_name
+Escudo de hierro
+
+ShMetalShield/description
+\}Es pesado de sostener con una sola mano...\n
+Ofrece mejor protección que una valla de madera.\n
+\C[6]Mano secundaria, corto alcance, alta calidad.\n
+\C[6]Aumenta la DEF. Disminuye el Sexy y la debilidad.\n
+
+ShLantern/item_name
+Lampara 
+
+ShLantern/description
+\}Proporciona iluminación cuando se equipa en S-ARM o EXT.\n
+Se pueden colocar hasta cuatro fuentes de luz en el suelo.\n
+\C[6]Mano secundaria, colocación.\n
+\C[6]Disminuye el Sexy.\n
+
+SwordAtest/item_name
+test
+
+SwordAtest/description
+asdf
+
