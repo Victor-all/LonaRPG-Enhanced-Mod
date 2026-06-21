@@ -11,7 +11,16 @@ DIRECTORIO_MOD = File.dirname(__FILE__)
 
 load File.join(DIRECTORIO_MOD, "Mods", "stats_hacks.rb")
 load File.join(DIRECTORIO_MOD, "Mods", "items_hacks.rb")
-load File.join(DIRECTORIO_MOD, "Mods", "spawner_hacks.rb")  # <-- NUEVA LÍNEA
+load File.join(DIRECTORIO_MOD, "Mods", "spawner_hacks.rb")
+load File.join(DIRECTORIO_MOD, "Mods", "tp_hack.rb")
+
+# --- CARGAR TRADUCCIONES DE ÍTEMS ---
+ruta_items = File.join(DIRECTORIO_MOD, "Idioma", "DataItem.txt")
+ItemHacks.load_translations_from_file(ruta_items) if File.exist?(ruta_items)
+
+# --- CARGAR TRADUCCIONES DE ARMAS Y ARMADURAS ---
+ruta_equip = File.join(DIRECTORIO_MOD, "Idioma", "DataEquip.txt")
+ItemHacks.load_translations_from_file(ruta_equip) if File.exist?(ruta_equip)
 
 load File.join(DIRECTORIO_MOD, "Menu", "cheat_menu.rb")
 
